@@ -1,0 +1,5 @@
+# Dependencies
+node_modules/
+
+# Flutter frontend build output
+frontend/build/
